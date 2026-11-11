@@ -1,0 +1,10 @@
+{
+  "defaultProvider": "openrouter",
+  "defaultModel": "anthropic/claude-opus-5.5",
+  "hideThinkingBlock": true,
+  "packages": [
+    "git:github.com/spoj/pi-tiny-tools"
+  ],
+  "showHardwareCursor": true,
+  "tuiMode": "regular"
+}

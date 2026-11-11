@@ -1,0 +1,11 @@
+# never commit
+auth.json
+*.key
+.env
+sessions/
+install/
+models-store.json
+node_modules/
+# company layer (kept in OneDrive, not GitHub)
+company/
+.DS_Store
